@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tutrial-react/static/css/main.7cd2126f.chunk.css",
+    "main.js": "/tutrial-react/static/js/main.c9e93093.chunk.js",
+    "main.js.map": "/tutrial-react/static/js/main.c9e93093.chunk.js.map",
+    "runtime-main.js": "/tutrial-react/static/js/runtime-main.3ccbb892.js",
+    "runtime-main.js.map": "/tutrial-react/static/js/runtime-main.3ccbb892.js.map",
+    "static/js/2.44e98dca.chunk.js": "/tutrial-react/static/js/2.44e98dca.chunk.js",
+    "static/js/2.44e98dca.chunk.js.map": "/tutrial-react/static/js/2.44e98dca.chunk.js.map",
+    "index.html": "/tutrial-react/index.html",
+    "static/css/main.7cd2126f.chunk.css.map": "/tutrial-react/static/css/main.7cd2126f.chunk.css.map",
+    "static/js/2.44e98dca.chunk.js.LICENSE.txt": "/tutrial-react/static/js/2.44e98dca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccbb892.js",
+    "static/js/2.44e98dca.chunk.js",
+    "static/css/main.7cd2126f.chunk.css",
+    "static/js/main.c9e93093.chunk.js"
+  ]
+}
